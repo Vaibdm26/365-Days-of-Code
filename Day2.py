@@ -1,4 +1,4 @@
-Question : Majority Element
+#Question : Majority Element
 class Solution:
     def majorityElement(self, A):
         if len(A) == 1:
