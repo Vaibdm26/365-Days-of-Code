@@ -3,7 +3,6 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
-
 class Solution:
     # @param A : integer
     # @return a list of TreeNode
