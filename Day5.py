@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-=======
-#Question: Unique Binary Search Trees
->>>>>>> main
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
-<<<<<<< HEAD
-=======
 
->>>>>>> main
 class Solution:
     # @param A : integer
     # @return a list of TreeNode
