@@ -1,4 +1,4 @@
-#Question : Best Time to Buy and Sell Stocks III
+#Question: Best Time to Buy and Sell Stocks III
 class Solution:
     # @param A : tuple of integers
     # @return an integer
